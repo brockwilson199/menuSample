@@ -2,19 +2,7 @@
 
 // Name: Brock Wilson
 // Date: 2/7/20
-// Email: brockwilson199@gmail.com
 // Assignment Title: FSC Chick-fil-A
-// Course code: CSC 2290 001
-
-// FSC Honor Code: “I will practice academic and personal integrity and excellence of character and expect the same
-// from others.”
-
-
-
-
-
-
-
 
 
 
